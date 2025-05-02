@@ -1,3 +1,5 @@
+![Banner](./banner-image.jpeg)
+
 # 💫 About Me:
 
 I am currently studying Computer Science and Engineering.<br>
@@ -12,9 +14,21 @@ I am currently studying Computer Science and Engineering.<br>
 
 # 🎦 My Projects
 
-### 🚀 Project Name: My Awesome Project
+### 🚀 Project Name: HomeHunt
 
 - 🌐 [Live Site](https://home-hunt-frontend.vercel.app/admin)
+- 💻 [Frontend Code](https://github.com/zulfikar2022/home-hunt-frontend)
+- 🔧 [Backend Code](https://github.com/zulfikar2022/home-hunt-backend)
+
+### 🚀 Project Name: Best Bikes
+
+- 🌐 [Live Site](https://coruscating-bonbon-3879b6.netlify.app/)
+- 💻 [Frontend Code](https://github.com/zulfikar2022/assignment-4-frontend)
+- 🔧 [Backend Code](https://github.com/zulfikar2022/assignment-4-backend)
+
+### 🚀 Project Name: HomeHunt
+
+- 🌐 [Live Site](https://venerable-halva-459ef0.netlify.app/)
 - 💻 [Frontend Code](https://github.com/zulfikar2022/home-hunt-frontend)
 - 🔧 [Backend Code](https://github.com/zulfikar2022/home-hunt-backend)
 
