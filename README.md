@@ -26,11 +26,9 @@ I am currently studying Computer Science and Engineering.<br>
 - 💻 [Frontend Code](https://github.com/zulfikar2022/assignment-4-frontend)
 - 🔧 [Backend Code](https://github.com/zulfikar2022/assignment-4-backend)
 
-### 🚀 Project Name: HomeHunt
+### 🚀 Project Name: Animalto Toyasium
 
 - 🌐 [Live Site](https://venerable-halva-459ef0.netlify.app/)
-- 💻 [Frontend Code](https://github.com/zulfikar2022/home-hunt-frontend)
-- 🔧 [Backend Code](https://github.com/zulfikar2022/home-hunt-backend)
 
 # 📊 GitHub Stats:
 
