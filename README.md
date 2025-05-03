@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am currently studying Computer Science and Engineering.<br>
+I am [Sayed Zulfikar Mahmud](https://my-portfolio-gold-theta-43.vercel.app/) passionate and dedicated developer with a strong focus on building scalable and efficient web applications. My expertise lies in the MERN stack, and I thrive on solving complex problems and delivering user-centric solutions. My vision is to grow as a MERN stack developer, contributing to innovative projects that make a meaningful impact while continuously enhancing my skills and staying updated with the latest technologies.<br/>
 
 ## 🌐 Socials:
 
@@ -37,7 +37,3 @@ I am currently studying Computer Science and Engineering.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar2022&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<!-- [![](https://visitcount.itsvg.in/api?id=zulfikar2022&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
