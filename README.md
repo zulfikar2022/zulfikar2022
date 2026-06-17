@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I am [Sayed Zulfikar Mahmud](https://my-portfolio-gold-theta-43.vercel.app/) passionate and dedicated developer with a strong focus on building scalable and efficient web applications. My expertise lies in the MERN stack, and I thrive on solving complex problems and delivering user-centric solutions. My vision is to grow as a MERN stack developer, contributing to innovative projects that make a meaningful impact while continuously enhancing my skills and staying updated with the latest technologies.<br/>
+I am [Sayed Zulfikar Mahmud](https://my-portfolio-gold-theta-43.vercel.app/), a Full-Stack Developer based in Dinajpur, Bangladesh. My expertise centers on building scalable, efficient, and user-centric web applications. While I have a strong foundation in the MERN stack, I have specialized in the **Laravel ecosystem**, leveraging its power to deliver robust backend solutions. I am passionate about crafting elegant code, optimizing database performance, and creating seamless, reactive user interfaces. I am continuously evolving my skills to stay at the forefront of modern web development.
 
 ## 🌐 Socials:
 
@@ -10,9 +10,23 @@ I am [Sayed Zulfikar Mahmud](https://my-portfolio-gold-theta-43.vercel.app/) pas
 
 # 💻 Tech Stack:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend & Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23fb70a5.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-%23f05340.svg?style=for-the-badge&logo=filament&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Frontend & UI
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 🎦 My Projects
+
+### 🚀 Production Project: Mabrur Hut
+
+- 🌐 [Live Site](https://mabrurhut.com)
 
 ### 🚀 Project Name: HomeHunt
 
